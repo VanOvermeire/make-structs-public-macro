@@ -1,0 +1,7 @@
+[package]
+name = "make-public-macro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+make-fields-public = { path = "./make-fields-public" }
